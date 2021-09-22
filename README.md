@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+#Hola, soy un programador apasionado de múltiples tecnologías que logran fusionarse para generar una experiencia rica y diferente con herramientas de todo tipo.
+
+
 <!--
 **jeancode/JeanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
