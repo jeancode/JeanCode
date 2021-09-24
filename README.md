@@ -8,6 +8,8 @@
 </p>
 by JeanCode
 
+<img src="./tiktok.png" width="50">
+
 
 ## Ejemplos
 
