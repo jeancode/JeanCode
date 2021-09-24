@@ -1,10 +1,9 @@
-[<img align="left" width="100%" alt="🦑" src="./jeancode.png">](#)
 
+<img align="left" width="100%" alt="🦑" src="./jeancode.png">
 
+....
 
-
-#### Hola, soy un programador apasionado de múltiples tecnologías que logran fusionarse para generar una experiencia rica y diferente con herramientas de todo tipo.
-
+## Ejemplos
 
 
 [<img align="left" width="400" alt="🦑" src="https://github.com/jeancode/FormCube/blob/master/Captura.PNG?raw=true">](#)
