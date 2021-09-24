@@ -9,6 +9,21 @@
 
 <p>by JeanCode</p>
 
+
+| Niebla | Form3d |
+| ------------- | ------------- |
+
+| C++ | 60% |
+| Python | 60% |
+| Nodejs | 75% |
+| Javascript | 80% |
+| PHP | 75% |
+| HTML | 90% |
+| CSS | 90% |
+
+
+
+
 <p><h1>Tiktok</h1></p>
 <p>
 <img src="./Tiktok.PNG" >
