@@ -15,10 +15,9 @@
 
 [<img align="left" width="400" alt="🦑" src="https://github.com/jeancode/NieblaV1/blob/main/Captura.PNG?raw=true">](#)
 
-
 [<img align="left" width="400" alt="🦑" src="https://github.com/jeancode/NeonBotonV1/raw/main/Captura.PNG">](#)
 
-[<img align="left" width="400" alt="🦑" src="https://github.com/jeancode/FormCube/blob/master/Captura.PNG?raw=true">](#)
+
 
 [<img align="left" width="400" alt="🦑" src="https://github.com/jeancode/tarjetas3d/raw/main/Tarjetas.PNG">](#)
 
