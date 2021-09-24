@@ -32,8 +32,7 @@
 
 
 
-
-| Niebla | Form3d |
+| Niebla |  
 | ------------- | 
 | <img  width="350" alt="🦑" src="https://github.com/jeancode/AceleratorIndicator/blob/main/Captura.PNG">   |  
 
