@@ -6,12 +6,15 @@
 <p>
   <img  width="100%" alt="🦑" src="./jeancode.png">
 </p>
-by JeanCode
 
-<img src="./tiktok.png" width="50">
+<p>by JeanCode</p>
 
+<p><h1>Tiktok</h1></p>
+<p>
+<img src="./Tiktok.PNG" >
+</p>
 
-## Ejemplos
+<p><h1>Ejemplos</h1></p>
 
 
 
