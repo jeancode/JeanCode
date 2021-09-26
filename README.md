@@ -32,6 +32,10 @@
 
 
 
+|ProgressColor v2|
+|----------------|
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/PogressIntercalColor/raw/main/Captura.PNG">|
+
 | Niebla |  loadColor |
 | ------------- | ------------- |
 | <img  width="350" alt="🦑" src="https://github.com/jeancode/AceleratorIndicator/blob/main/Captura.PNG"> | <img  width="350" alt="🦑" src="https://github.com/jeancode/loadColor/raw/main/Captura.PNG">     
