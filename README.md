@@ -35,9 +35,9 @@
 
 
 
-|ProgressColor v2|
-|----------------|
-|<img  width="350" alt="🦑" src="https://github.com/jeancode/PogressIntercalColor/raw/main/Captura.PNG">|
+|ProgressColor v2|TrackBarHabilidades|
+|----------------|----------------|
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/PogressIntercalColor/raw/main/Captura.PNG">|<img  width="350" alt="🦑" src="https://github.com/jeancode/trackBarHabilidades/raw/main/animation1.gif">|
 
 | Niebla |  loadColor |
 | ------------- | ------------- |
