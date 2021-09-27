@@ -33,7 +33,7 @@
 
 <p><h1>Portafolio</h1></p>
 
-|ProgressColor v2|
+|LoginDeplege|
 |----------------|
 |<img  width="350" alt="🦑" src="https://github.com/jeancode/LoginDeplege/raw/main/animation.gif">|
 
