@@ -35,9 +35,10 @@
 
 
 
-|MarijuanaApp|
-|------------|
-| <img  width="350" alt="🦑" src="https://github.com/jeancode/MarijuanaApp/raw/main/animation.gif">|
+|MarijuanaApp|fromGreen   |
+|------------|------------|
+| <img  width="350" alt="🦑" src="https://github.com/jeancode/MarijuanaApp/raw/main/animation.gif">| <img  width="350" alt="🦑" src="
+https://github.com/jeancode/fromGreen/raw/main/animacion.gif">|
 
 |LoginDeplege| LoginDeplege|
 |----------------|----------------|
