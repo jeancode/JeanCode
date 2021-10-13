@@ -45,15 +45,15 @@
 |------------|------------|
 | <img  width="350" alt="🦑" src="https://github.com/jeancode/MarijuanaApp/raw/main/animation.gif">|<img  width="350" alt="🦑" src="https://raw.githubusercontent.com/jeancode/fromGreen/main/animacion.gif">|
 
-|LoginDeplege| LoginDeplege|
-|----------------|----------------|
-|<img  width="350" alt="🦑" src="https://github.com/jeancode/LoginDeplege/raw/main/animation.gif">|<img  width="350" alt="🦑" src="https://github.com/jeancode/SimpleCheckV1/raw/main/animation.gif">|
-
-
 
 |ProgressColor v2|TrackBarHabilidades|
 |----------------|----------------|
 |<img  width="350" alt="🦑" src="https://github.com/jeancode/PogressIntercalColor/raw/main/Captura.PNG">|<img  width="350" alt="🦑" src="https://github.com/jeancode/trackBarHabilidades/raw/main/animation1.gif">|
+
+|LoginDeplege| LoginDeplege|
+|----------------|----------------|
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/LoginDeplege/raw/main/animation.gif">|<img  width="350" alt="🦑" src="https://github.com/jeancode/SimpleCheckV1/raw/main/animation.gif">|
+
 
 | Niebla |  loadColor |
 | ------------- | ------------- |
