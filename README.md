@@ -36,7 +36,7 @@
 
 
 
-https://github.com/jeancode/SimpleControlCnc
+
 
 |Simple control Cnc HTML| Descripción |
 |------------|------------|
