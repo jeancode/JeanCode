@@ -36,6 +36,13 @@
 
 
 
+https://github.com/jeancode/SimpleControlCnc
+
+|Simple control Cnc HTML| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/SimpleControlCnc"><img  width="350" alt="🦑" src="https://github.com/jeancode/SimpleControlCnc/blob/main/00.PNG"> </a>|Pequeño ejemplo de control echo con Html css y javascript|
+
+
 
 |Planeta Jean| Descripción |
 |------------|------------|
