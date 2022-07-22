@@ -36,6 +36,11 @@
 
 
 
+|Load Caramelo| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/CarameloLoad"><img  width="350" alt="🦑" src="https://github.com/jeancode/CarameloLoad/blob/main/Captura.PNG"> </a>|Pequeño ejemplo de loading estilo caramelo echo con Html css y javascript|
+
+
 
 
 |Simple control Cnc HTML| Descripción |
