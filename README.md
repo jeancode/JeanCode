@@ -33,42 +33,44 @@
 
 <p><h1>Portafolio</h1></p>
 
-
+| Snake | Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/SnakeFGame"><img  width="450" alt="🦑" src="https://github.com/jeancode/SnakeFGame/raw/main/Miniatura.png"> </a>|Pequeño ejemplo del juego del snake con javascript y html|
 
 
 |Load Caramelo| Descripción |
 |------------|------------|
-|<a href="https://github.com/jeancode/CarameloLoad"><img  width="350" alt="🦑" src="https://github.com/jeancode/CarameloLoad/blob/main/Captura.PNG"> </a>|Pequeño ejemplo de loading estilo caramelo echo con Html css y javascript|
+|<a href="https://github.com/jeancode/CarameloLoad"><img  width="450" alt="🦑" src="https://github.com/jeancode/CarameloLoad/blob/main/Captura.PNG"> </a>|Pequeño ejemplo de loading estilo caramelo echo con Html css y javascript|
 
 
 
 
 |Simple control Cnc HTML| Descripción |
 |------------|------------|
-|<a href="https://github.com/jeancode/SimpleControlCnc"><img  width="350" alt="🦑" src="https://github.com/jeancode/SimpleControlCnc/blob/main/00.PNG"> </a>|Pequeño ejemplo de control echo con Html css y javascript|
+|<a href="https://github.com/jeancode/SimpleControlCnc"><img  width="450" alt="🦑" src="https://github.com/jeancode/SimpleControlCnc/blob/main/00.PNG"> </a>|Pequeño ejemplo de control echo con Html css y javascript|
 
 
 
 |Planeta Jean| Descripción |
 |------------|------------|
-|<a href="https://github.com/jeancode/Pleneta-Jean"><img  width="350" alt="🦑" src="https://github.com/jeancode/Pleneta-Jean/blob/main/Captura.PNG"> </a>|Pequeño ejemplo echo con Html css y javascript|
+|<a href="https://github.com/jeancode/Pleneta-Jean"><img  width="450" alt="🦑" src="https://github.com/jeancode/Pleneta-Jean/blob/main/Captura.PNG"> </a>|Pequeño ejemplo echo con Html css y javascript|
 
 
 |FormularioMovil| Descripción |
 |------------|------------|
-|<a href="https://github.com/jeancode/SimpleLoginMovil/"><img  width="350" alt="🦑" src="https://github.com/jeancode/SimpleLoginMovil/raw/main/Captura.PNG"> </a>|Pequeño ejemplo echo con Html css y javascript|
+|<a href="https://github.com/jeancode/SimpleLoginMovil/"><img  width="450" alt="🦑" src="https://github.com/jeancode/SimpleLoginMovil/raw/main/Captura.PNG"> </a>|Pequeño ejemplo echo con Html css y javascript|
 
 
 |MenuDesplegable| Descripción |
 |------------|------------|
-|<a href="https://github.com/jeancode/MenuDesplegableSelectTheme"><img  width="350" alt="🦑" src="https://github.com/jeancode/MenuDesplegableSelectTheme/raw/main/captura.png"> </a>|Pequeño ejemplo echo con Html css y javascript|
+|<a href="https://github.com/jeancode/MenuDesplegableSelectTheme"><img  width="450" alt="🦑" src="https://github.com/jeancode/MenuDesplegableSelectTheme/raw/main/captura.png"> </a>|Pequeño ejemplo echo con Html css y javascript|
 
 
 
 
 |Esp32 Ble keyboard|
 |------------| 
-|<a href="https://github.com/jeancode/ESP32-BLE-Keyboard"><img  width="350" alt="🦑" src="https://user-images.githubusercontent.com/19756878/146260169-cec8fe6e-2f0e-4171-ace8-3a74cf27eb68.png"> </a>|
+|<a href="https://github.com/jeancode/ESP32-BLE-Keyboard"><img  width="450" alt="🦑" src="https://user-images.githubusercontent.com/19756878/146260169-cec8fe6e-2f0e-4171-ace8-3a74cf27eb68.png"> </a>|
 
 
 
