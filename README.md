@@ -15,9 +15,9 @@
 
 | Niebla | Form3d |
 | ------------- | ------------- |
-| C++ | 60% |
+| C++ | 40% |
 | Python | 60% |
-| Nodejs | 75% |
+| Nodejs | 80% |
 | Javascript | 80% |
 | PHP | 75% |
 | HTML | 90% |
