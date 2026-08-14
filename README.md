@@ -89,30 +89,54 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 ### 🚀 Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/jeancode/temblore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeancode&repo=temblore&theme=tokyonight&hide_border=true" alt="Temblore">
-  </a>
-  <a href="https://github.com/jeancode/3D-Soft-Minimal-Login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeancode&repo=3D-Soft-Minimal-Login&theme=tokyonight&hide_border=true" alt="3D Login">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/jeancode/alpine_kiosk_os-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeancode&repo=alpine_kiosk_os-&theme=tokyonight&hide_border=true" alt="Alpine Kiosk OS">
-  </a>
-  <a href="https://github.com/jeancode/TrasformadaDeFourier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeancode&repo=TrasformadaDeFourier&theme=tokyonight&hide_border=true" alt="Fourier">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/jeancode/sysmon_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeancode&repo=sysmon_v2&theme=tokyonight&hide_border=true" alt="SysMon v2">
-  </a>
-  <a href="https://github.com/jeancode/Supertonic-Portable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeancode&repo=Supertonic-Portable&theme=tokyonight&hide_border=true" alt="Supertonic">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/jeancode/temblore">
+        <img src="https://raw.githubusercontent.com/jeancode/temblore/main/Captura.PNG" width="100%" alt="Temblore">
+        <br><b>🌍 Temblore</b>
+      </a>
+      <br>Interfaz 3D para visualizar temblores en tiempo real.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/jeancode/3D-Soft-Minimal-Login">
+        <img src="https://raw.githubusercontent.com/jeancode/3D-Soft-Minimal-Login/main/Captura.PNG" width="100%" alt="3D Login">
+        <br><b>🎮 3D Soft Minimal Login</b>
+      </a>
+      <br>Interfaz de login con Three.js y Glassmorphism.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/jeancode/TrasformadaDeFourier">
+        <img src="https://raw.githubusercontent.com/jeancode/TrasformadaDeFourier/main/Fourier.PNG" width="100%" alt="Fourier">
+        <br><b>📊 Transformada de Fourier</b>
+      </a>
+      <br>Visualización interactiva de Fourier en HTML/JS.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/jeancode/SnakeFGame">
+        <img src="https://raw.githubusercontent.com/jeancode/SnakeFGame/main/Miniatura.png" width="100%" alt="SnakeFGame">
+        <br><b>🐍 SnakeFGame</b>
+      </a>
+      <br>Juego del Snake con JavaScript y HTML.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/jeancode/CarameloLoad">
+        <img src="https://raw.githubusercontent.com/jeancode/CarameloLoad/main/Captura.PNG" width="100%" alt="CarameloLoad">
+        <br><b>🍬 CarameloLoad</b>
+      </a>
+      <br>Loader animado estilo caramelo con CSS.
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/jeancode/SimpleControlCnc">
+        <img src="https://raw.githubusercontent.com/jeancode/SimpleControlCnc/main/00.PNG" width="100%" alt="SimpleControlCnc">
+        <br><b>🕹️ SimpleControlCnc</b>
+      </a>
+      <br>Control CNC simple con interfaz web.
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>📦 Más proyectos interesantes</b></summary>
@@ -143,7 +167,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeancode&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
+  <img src="https://streak-stats.demolab.com/?user=jeancode&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
 </p>
 
 ---
@@ -151,7 +175,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 ### 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeancode&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=jeancode&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies">
 </p>
 
 ---
