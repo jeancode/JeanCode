@@ -157,26 +157,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 </details>
 
----
 
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeancode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeancode&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
-</p>
-
----
-
-### 🏆 Trofeos de GitHub
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=jeancode&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies">
-</p>
 
 ---
 
