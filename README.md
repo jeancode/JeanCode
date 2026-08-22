@@ -15,13 +15,14 @@
 
 ### 🧑‍💻 Sobre mí
 
-Programador con gran pasión por las interfaces, aunque mi fuerte es el **backend**. Me encanta explorar desde el desarrollo web hasta la programación de microcontroladores, la emulación y las herramientas de bajo nivel.
+Programador con gran pasión por las interfaces, aunque mi fuerte es el **backend** y los sistemas de alto rendimiento. Me encanta explorar desde el desarrollo web hasta la síntesis de IA, programación de microcontroladores, emulación y herramientas de bajo nivel.
 
 - ⚡ Creador de **[JPureFlow.js](https://github.com/jeancode/JPureFlow.js)** — motor visual de nodos ultraligero (Vanilla JS) para orquestación de IA y flujos reactivos
-- 🔭 Actualmente trabajando en **[Temblore](https://github.com/jeancode/temblore)** — una interfaz 3D para visualizar temblores en tiempo real
-- 🛠️ Construyo desde **interfaces web con Three.js** hasta **firmware para STM32 y Arduino**
+- 🗣️ Desarrollador de **[Supertonic-Portable](https://github.com/jeancode/Supertonic-Portable)** — motor de síntesis de voz (TTS) 100% local y offline para Windows con C# y ONNX Runtime
+- 🔭 Trabajando en **[Temblore](https://github.com/jeancode/temblore)** — interfaz 3D para visualizar temblores en tiempo real con WebGL
+- 🛠️ Construyo desde **interfaces web interactivas** hasta **firmware para STM32, Arduino y control CNC**
 - 🐧 Fan de Linux, automatización y sistemas embebidos
-- ⚡ Dato curioso: tengo proyectos que van desde compilar **PPSSPP para Arduino Uno Q** hasta crear **sistemas operativos kiosk con Alpine Linux**
+- ⚡ Proyectos desde compilar **PPSSPP para Arduino Uno Q** hasta crear **sistemas operativos kiosk con Alpine Linux**
 
 ---
 
@@ -88,62 +89,110 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 ---
 
-### 🚀 Proyectos Destacados
+### ⚙️ Software Avanzado, IA & Hardware
+*Proyectos de ingeniería de software, motores de orquestación, síntesis de voz, bajo nivel y control embebido.*
 
-<div align="center">
-  <a href="https://github.com/jeancode/JPureFlow.js">
-    <img src="jpureflow_preview.png" width="100%" alt="JPureFlow.js Banner" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
-    <br><b>⚡ JPureFlow.js — Motor Visual de Nodos & Flujos en Vanilla JS (Zero Dependencies)</b>
-  </a>
-  <p>Librería moderna para orquestar flujos de IA, pipelines y microcontroladores con controles UI integrados (sliders, switches, dropdowns) y persistencia JSON.</p>
-</div>
-<br>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/jeancode/temblore">
-        <img src="https://raw.githubusercontent.com/jeancode/temblore/main/Captura.PNG" width="100%" alt="Temblore">
-        <br><b>🌍 Temblore</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/JPureFlow.js">
+        <img src="jpureflow_preview.png" width="100%" alt="JPureFlow.js" style="border-radius: 8px;">
+        <br><b>⚡ JPureFlow.js</b>
       </a>
-      <br>Interfaz 3D para visualizar temblores en tiempo real.
+      <br>
+      <sub>Motor visual de nodos reactivo en Vanilla JS sin dependencias. Con Data Binding, controles UI y serialización JSON.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Zero_Deps-100%25-10B981?style=flat-square">
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/jeancode/3D-Soft-Minimal-Login">
-        <img src="https://raw.githubusercontent.com/jeancode/3D-Soft-Minimal-Login/main/Captura.PNG" width="100%" alt="3D Login">
-        <br><b>🎮 3D Soft Minimal Login</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/Supertonic-Portable">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,15&height=140&section=header&text=Supertonic%20TTS&fontSize=22&fontColor=fff&desc=Motor%20de%20Voz%20Offline%20ONNX&descSize=12" width="100%" alt="Supertonic Portable" style="border-radius: 8px;">
+        <br><b>🗣️ Supertonic Portable</b>
       </a>
-      <br>Interfaz de login con Three.js y Glassmorphism.
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/jeancode/TrasformadaDeFourier">
-        <img src="https://raw.githubusercontent.com/jeancode/TrasformadaDeFourier/main/Fourier.PNG" width="100%" alt="Fourier">
-        <br><b>📊 Transformada de Fourier</b>
-      </a>
-      <br>Visualización interactiva de Fourier en HTML/JS.
+      <br>
+      <sub>Motor de síntesis de voz (Text-to-Speech) offline para Windows con C# y ONNX Runtime. Reproducción automática por terminal.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/ONNX_Runtime-Offline_TTS-005CED?style=flat-square">
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/jeancode/SnakeFGame">
-        <img src="https://raw.githubusercontent.com/jeancode/SnakeFGame/main/Miniatura.png" width="100%" alt="SnakeFGame">
-        <br><b>🐍 SnakeFGame</b>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/temblore">
+        <img src="https://raw.githubusercontent.com/jeancode/temblore/main/Captura.PNG" width="100%" alt="Temblore" style="border-radius: 8px;">
+        <br><b>🌍 Temblore</b>
       </a>
-      <br>Juego del Snake con JavaScript y HTML.
+      <br>
+      <sub>Visualizador 3D interactivo en tiempo real de actividad sísmica mundial con aceleración WebGL.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Three.js-WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/RealTime-Seismic-EF4444?style=flat-square">
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/jeancode/CarameloLoad">
-        <img src="https://raw.githubusercontent.com/jeancode/CarameloLoad/main/Captura.PNG" width="100%" alt="CarameloLoad">
-        <br><b>🍬 CarameloLoad</b>
-      </a>
-      <br>Loader animado estilo caramelo con CSS.
-    </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/jeancode/SimpleControlCnc">
-        <img src="https://raw.githubusercontent.com/jeancode/SimpleControlCnc/main/00.PNG" width="100%" alt="SimpleControlCnc">
+        <img src="https://raw.githubusercontent.com/jeancode/SimpleControlCnc/main/00.PNG" width="100%" alt="SimpleControlCnc" style="border-radius: 8px;">
         <br><b>🕹️ SimpleControlCnc</b>
       </a>
-      <br>Control CNC simple con interfaz web.
+      <br>
+      <sub>Control y monitorización web para maquinaria CNC y microcontroladores.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Hardware-CNC_Control-00979D?style=flat-square&logo=arduino&logoColor=white">
+      <img src="https://img.shields.io/badge/Interface-Web_GCode-F5822A?style=flat-square">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Interfaces Web, Experimentos & Diseños Creativos (HTML / CSS / JS)
+*Interfaces visuales minimalistas, 3D en navegador, efectos glassmorphism y visualizaciones matemáticas.*
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/3D-Soft-Minimal-Login">
+        <img src="https://raw.githubusercontent.com/jeancode/3D-Soft-Minimal-Login/main/Captura.PNG" width="100%" alt="3D Login" style="border-radius: 8px;">
+        <br><b>🎮 3D Soft Minimal Login</b>
+      </a>
+      <br>
+      <sub>Formulario interactivo de login 3D con Three.js, iluminación suave y Glassmorphism.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Three.js-3D_UI-000000?style=flat-square&logo=threedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Design-Glassmorphism-E8B08A?style=flat-square">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/TrasformadaDeFourier">
+        <img src="https://raw.githubusercontent.com/jeancode/TrasformadaDeFourier/main/Fourier.PNG" width="100%" alt="Fourier" style="border-radius: 8px;">
+        <br><b>📊 Transformada de Fourier</b>
+      </a>
+      <br>
+      <sub>Visualización gráfica e interactiva de armónicos y ciclos complejos de Fourier en JS.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Math-Fourier_Canvas-A855F7?style=flat-square">
+      <img src="https://img.shields.io/badge/Interactive-Visualizer-38BDF8?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/CarameloLoad">
+        <img src="https://raw.githubusercontent.com/jeancode/CarameloLoad/main/Captura.PNG" width="100%" alt="CarameloLoad" style="border-radius: 8px;">
+        <br><b>🍬 CarameloLoad</b>
+      </a>
+      <br>
+      <sub>Loader animado fluido con gradientes y microinteracciones en CSS puro.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/CSS3-Pure_Animation-1572B6?style=flat-square&logo=css3&logoColor=white">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/SnakeFGame">
+        <img src="https://raw.githubusercontent.com/jeancode/SnakeFGame/main/Miniatura.png" width="100%" alt="SnakeFGame" style="border-radius: 8px;">
+        <br><b>🐍 SnakeFGame</b>
+      </a>
+      <br>
+      <sub>Recreación moderna del clásico videojuego Snake en JavaScript y Canvas.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Game-Canvas_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     </td>
   </tr>
 </table>
