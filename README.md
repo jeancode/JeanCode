@@ -17,6 +17,7 @@
 
 Programador con gran pasión por las interfaces, aunque mi fuerte es el **backend**. Me encanta explorar desde el desarrollo web hasta la programación de microcontroladores, la emulación y las herramientas de bajo nivel.
 
+- ⚡ Creador de **[JPureFlow.js](https://github.com/jeancode/JPureFlow.js)** — motor visual de nodos ultraligero (Vanilla JS) para orquestación de IA y flujos reactivos
 - 🔭 Actualmente trabajando en **[Temblore](https://github.com/jeancode/temblore)** — una interfaz 3D para visualizar temblores en tiempo real
 - 🛠️ Construyo desde **interfaces web con Three.js** hasta **firmware para STM32 y Arduino**
 - 🐧 Fan de Linux, automatización y sistemas embebidos
@@ -89,6 +90,15 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 ### 🚀 Proyectos Destacados
 
+<div align="center">
+  <a href="https://github.com/jeancode/JPureFlow.js">
+    <img src="jpureflow_preview.png" width="100%" alt="JPureFlow.js Banner" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+    <br><b>⚡ JPureFlow.js — Motor Visual de Nodos & Flujos en Vanilla JS (Zero Dependencies)</b>
+  </a>
+  <p>Librería moderna para orquestar flujos de IA, pipelines y microcontroladores con controles UI integrados (sliders, switches, dropdowns) y persistencia JSON.</p>
+</div>
+<br>
+
 <table align="center">
   <tr>
     <td width="33%" align="center">
@@ -144,6 +154,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 | Proyecto | Descripción | Lenguaje |
 |----------|-------------|----------|
+| [JPureFlow.js](https://github.com/jeancode/JPureFlow.js) | Motor visual de nodos y flujos en Vanilla JS sin dependencias | JavaScript |
 | [SnakeFGame](https://github.com/jeancode/SnakeFGame) | Juego del Snake con JavaScript y HTML | JavaScript |
 | [CarameloLoad](https://github.com/jeancode/CarameloLoad) | Loader animado estilo caramelo con CSS | HTML/CSS |
 | [SimpleControlCnc](https://github.com/jeancode/SimpleControlCnc) | Control CNC simple con interfaz web | HTML/Java |
