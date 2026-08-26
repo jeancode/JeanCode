@@ -34,7 +34,6 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
-> 💡 *Si estás aprendiendo otras tecnologías, edita los badges de esta sección.*
 
 ---
 
