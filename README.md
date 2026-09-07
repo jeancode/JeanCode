@@ -93,6 +93,21 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 <table align="center" width="100%">
   <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/jeancode/ajedres">
+        <img src="https://raw.githubusercontent.com/jeancode/ajedres/main/public/screenshots/02_aprendizaje_guiado.png" width="100%" alt="Chess 3D Next" style="border-radius: 8px;">
+        <br><b>♟️ Chess 3D Next — Gran Maestro IA & DeepSeek</b>
+      </a>
+      <br>
+      <sub>Juego de ajedrez 3D inmersivo con Three.js, servidor Next.js 14, motor FIDE, análisis pedagógico en tiempo real con DeepSeek y 5 modos interactivos.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Next.js_14-React-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Three.js-WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/DeepSeek-AI_Engine-00E5FF?style=flat-square">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-Glassmorphism-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white">
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/jeancode/JPureFlow.js">
         <img src="jpureflow_preview.png" width="100%" alt="JPureFlow.js" style="border-radius: 8px;">
