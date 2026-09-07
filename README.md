@@ -93,7 +93,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 <table align="center" width="100%">
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/jeancode/ajedres">
         <img src="https://raw.githubusercontent.com/jeancode/ajedres/main/public/screenshots/02_aprendizaje_guiado.png" width="100%" alt="Chess 3D Next" style="border-radius: 8px;">
         <br><b>♟️ Chess 3D Next — Gran Maestro IA & DeepSeek</b>
@@ -105,6 +105,19 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
       <img src="https://img.shields.io/badge/Three.js-WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white">
       <img src="https://img.shields.io/badge/DeepSeek-AI_Engine-00E5FF?style=flat-square">
       <img src="https://img.shields.io/badge/Tailwind_CSS-Glassmorphism-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/jeancode/Simuador_solar_v1">
+        <img src="https://raw.githubusercontent.com/jeancode/Simuador_solar_v1/main/screenshots/01_vista_general_3d.png" width="100%" alt="Solaris Simulador Solar 3D" style="border-radius: 8px;">
+        <br><b>☀️ Solaris — Simulador Fotovoltaico 3D</b>
+      </a>
+      <br>
+      <sub>Simulador solar 3D interactivo con Three.js: cálculo de irradiación, proyección de sombras en tiempo real, MPPT, banco de baterías LiFePO4 y balance de cargas.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Three.js-3D_WebGL-000000?style=flat-square&logo=threedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Solar-PV_Simulation-FFD166?style=flat-square">
+      <img src="https://img.shields.io/badge/Energy-RealTime_Flow-22C55E?style=flat-square">
+      <img src="https://img.shields.io/badge/Hardware-MPPT_Inverter-38BDF8?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -217,6 +230,8 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 | Proyecto | Descripción | Lenguaje |
 |----------|-------------|----------|
+| [ajedres](https://github.com/jeancode/ajedres) | Ajedrez 3D inmersivo con Three.js, Next.js 14 y DeepSeek IA | TypeScript |
+| [Simuador_solar_v1](https://github.com/jeancode/Simuador_solar_v1) | Simulador fotovoltaico 3D con Three.js, sombras y cálculo MPPT | JavaScript/Three.js |
 | [JPureFlow.js](https://github.com/jeancode/JPureFlow.js) | Motor visual de nodos y flujos en Vanilla JS sin dependencias | JavaScript |
 | [SnakeFGame](https://github.com/jeancode/SnakeFGame) | Juego del Snake con JavaScript y HTML | JavaScript |
 | [CarameloLoad](https://github.com/jeancode/CarameloLoad) | Loader animado estilo caramelo con CSS | HTML/CSS |
