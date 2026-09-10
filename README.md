@@ -19,6 +19,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 - ⚡ Creador de **[JPureFlow.js](https://github.com/jeancode/JPureFlow.js)** — motor visual de nodos ultraligero (Vanilla JS) para orquestación de IA y flujos reactivos
 - 🗣️ Desarrollador de **[Supertonic-Portable](https://github.com/jeancode/Supertonic-Portable)** — motor de síntesis de voz (TTS) 100% local y offline para Windows con C# y ONNX Runtime
+- 🔍 Desarrollador de **[FinderBlack-](https://github.com/jeancode/FinderBlack-)** — escáner de redes locales y análisis de puertos/servicios con Flutter y diseño Glassmorphism
 - 🔭 Trabajando en **[Temblore](https://github.com/jeancode/temblore)** — interfaz 3D para visualizar temblores en tiempo real con WebGL
 - 🛠️ Construyo desde **interfaces web interactivas** hasta **firmware para STM32, Arduino y control CNC**
 - 🐧 Fan de Linux, automatización y sistemas embebidos
@@ -230,6 +231,7 @@ Programador con gran pasión por las interfaces, aunque mi fuerte es el **backen
 
 | Proyecto | Descripción | Lenguaje |
 |----------|-------------|----------|
+| [FinderBlack-](https://github.com/jeancode/FinderBlack-) | Escáner de redes locales, puertos y servicios en tiempo real | Flutter / Dart |
 | [ajedres](https://github.com/jeancode/ajedres) | Ajedrez 3D inmersivo con Three.js, Next.js 14 y DeepSeek IA | TypeScript |
 | [Simuador_solar_v1](https://github.com/jeancode/Simuador_solar_v1) | Simulador fotovoltaico 3D con Three.js, sombras y cálculo MPPT | JavaScript/Three.js |
 | [JPureFlow.js](https://github.com/jeancode/JPureFlow.js) | Motor visual de nodos y flujos en Vanilla JS sin dependencias | JavaScript |
